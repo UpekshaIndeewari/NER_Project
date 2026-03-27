@@ -40,7 +40,7 @@ Chicago → B-LOC
 
 ## ⚙️ Project Workflow
 
-![Workflow]([https://example.com/image.png](https://github.com/UpekshaIndeewari/-NER_Project/blob/main/Workflow.png))
+![Workflow](https://github.com/UpekshaIndeewari/-NER_Project/blob/main/Workflow.png)
 
 1. **Text Processing**
 
